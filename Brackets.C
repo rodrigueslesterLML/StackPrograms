@@ -45,15 +45,15 @@ void main()
        else
        {
 	 temp=pop();
-	 if(exp[i]==')'&&(temp=='{'||temp=='[')) //not matching
+	 if(exp[i]==')'&&(temp=='{'||temp=='[')) //if popped value and exp[i]not matching
 
 	  flag=0;
 
-	 if(exp[i]=='}'&&(temp=='('||temp=='[') )//not matching
+	 if(exp[i]=='}'&&(temp=='('||temp=='[') )//if popped value and exp[i] not matching
 
 	  flag=0;
 
-	  if(exp[i]==']'&&(temp=='('||temp=='{'))//not matching
+	  if(exp[i]==']'&&(temp=='('||temp=='{'))//if popped value and exp[i] not matching
 
 	  flag=0;
 
