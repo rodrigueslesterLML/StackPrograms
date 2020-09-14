@@ -10,3 +10,5 @@ Contents:
 3.      CharStackADT.C--->                            Implementation Of Character Stack ADT
 
 4.      Brackets.C--->                                checking if a expression is well formed
+
+5.      stackrev.C--->                                reversing a list of numebrs using stack
