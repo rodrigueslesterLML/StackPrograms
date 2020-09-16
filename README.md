@@ -12,3 +12,5 @@ Contents:
 4.      Brackets.C--->                                checking if a expression is well formed
 
 5.      stackrev.C--->                                reversing a list of numebrs using stack
+
+6.      IntoPos.C--->                                 converting infix to postfix exp method 1
