@@ -3,8 +3,9 @@ Programs on Stack and their Applications
 
 *. Github Page link:https://rodrigueslesterlml.github.io/StackPrograms/
 
-*. Note: 1. Pass the name of the program as mentioned in the contents in the link above to view the code
-         2. You can Downlaod the zip file and view the code using your IDE or view it using notepad 
+*. Note:
+1. Pass the name of the program as mentioned in the contents in the link above to view the code
+2. You can Downlaod the zip file and view the code using your IDE or view it using notepad 
 
 Contents:
 
