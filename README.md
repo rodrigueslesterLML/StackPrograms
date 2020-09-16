@@ -14,3 +14,5 @@ Contents:
 5.      stackrev.C--->                                reversing a list of numebrs using stack
 
 6.      IntoPos.C--->                                 converting infix to postfix exp method 1
+
+7.      EVALPOST.C--->                                Evaluating a postfix expression using stack
